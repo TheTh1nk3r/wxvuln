@@ -191,28 +191,42 @@ def main():
     data = {}
     executable_path = get_executable_path()
     base_result_path = 'doc'
-    # 创建基于当前年月的子目录 (格式: YYYY-MM)
-    current_month = datetime.datetime.now().strftime("%Y-%m")
-    result_path = os.path.join(base_result_path, current_month)
+
+    # 获取当前日期
+    current_date = datetime.datetime.now()
+    year, week_number, weekday = current_date.isocalendar()
+    current_month = current_date.strftime("%Y-%m")
+    week_dir = f"{year}-W{week_number:02d}"
+    daily_dir = current_date.strftime("%Y-%m-%d")
+
+    # 创建完整路径结构: doc/YYYY-MM/week_dir/daily_dir
+    result_path = os.path.join(base_result_path, current_month, week_dir, daily_dir)
     os.makedirs(result_path, exist_ok=True)
+
     # 读取历史记录
     data = read_json(data_file, default_data=data)
+
     if len(sys.argv) == 2:
         if sys.argv[1] == 'today':
             urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
         else:
             urls = get_issue_url()
+
         for url in urls:
             if url in data:
                 continue
             for file_path in get_md_path(executable_path, url):
-                name = os.path.splitext(os.path.basename(file_path))[0]
-                if name == '.md':
+                filename = os.path.basename(file_path)
+                if filename == '.md':
                     continue
-                shutil.copy2(file_path,result_path)
-                data[url] = name
-                write_json(data_file,data)
-                print(name,end='、')
+                # 复制文件到日目录
+                shutil.copy2(file_path, result_path)
+                # 构建存储路径（相对路径，包含周和日）
+                relative_path = os.path.join(week_dir, daily_dir, filename)
+                data[url] = relative_path
+                write_json(data_file, data)
+                print(relative_path, end='、')
     rep_filename(result_path)
+
 if __name__ == '__main__':
     main()

@@ -26,13 +26,13 @@
 
 - 使用 [wechatmp2markdown](https://github.com/fengxxc/wechatmp2markdown) 将公众号文章转为Markdown格式
 - 智能处理特殊字符，生成合规文件名
-- 按年月分类存储：`doc/yy-mm/`
+- 按年月分类存储：`doc/yy-mm/week_dir/daily_dir`
 - 通过`data.json`记录已处理链接，避免重复
 
 ## ⚙️ 使用方法
 
 ### 自动运行
-- GitHub Actions 每2小时自动执行
+- GitHub Actions 每1小时自动执行
 
 ### 手动运行
 ```bash

@@ -81,7 +81,7 @@ def get_chainreactors_url():
             base_url,
             headers=headers,
         )
-        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
+        urls = re.findall('(?:复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
         urls = [url.rstrip(')') for url in urls]
         return urls
     except:
@@ -113,7 +113,7 @@ def get_BruceFeIix_url():
             base_url,
             headers=headers,
         )
-        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
+        urls = re.findall('(?:复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
         urls = [url.rstrip(')') for url in urls]
         return urls
     except:
@@ -156,7 +156,7 @@ def get_doonsec_url():
         for item in root.findall('./channel/item'):
             title = item.findtext('title') or ''
             link = item.findtext('link') or ''
-            if re.search(r'(复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行)', title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
+            if re.search(r'(复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行)', title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
                 urls.append(link.rstrip(')'))
 
         return urls

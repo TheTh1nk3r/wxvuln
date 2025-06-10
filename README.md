@@ -32,7 +32,7 @@
 ## ⚙️ 使用方法
 
 ### 自动运行
-- GitHub Actions 每4小时自动执行
+- GitHub Actions 每1小时自动执行
 
 ### 手动运行
 ```bash

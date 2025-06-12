@@ -15113,5 +15113,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=2&sn=701d5c7504e52d022769b7e6343466c1": "2025-W24/2025-06-12/漏洞预警 | 百易云资产管理运营系统SQL注入漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6": "2025-W24/2025-06-12/一个$1,337的漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483849&idx=1&sn=0a3d86cea5da79e418d2a716f77139e9": "2025-W24/2025-06-12/深度剖析JSONP注入漏洞：JavaScript回调函数引发的会话弹窗劫持.md",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499852&idx=1&sn=ac1ef39300e612a89c175aeb1d4b0fea": "2025-W24/2025-06-12/Sharp4Shell：.NET 一款集交互与横向于一体的内网渗透神器.md"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499852&idx=1&sn=ac1ef39300e612a89c175aeb1d4b0fea": "2025-W24/2025-06-12/Sharp4Shell：.NET 一款集交互与横向于一体的内网渗透神器.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487487&idx=1&sn=e7017d76417d578514aadbbcd40f83f7": "2025-W24/2025-06-12/漏洞预警 |Kafka Connect存在任意文件读取漏洞（CVE-2025-27817）.md"
 }

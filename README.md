@@ -20,7 +20,7 @@
 ## 🔍 内容筛选规则
 
 系统会自动识别包含以下关键词的文章：
-复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行
+复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CWE-\d+|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行
 
 ## 🛠️ 技术实现
 

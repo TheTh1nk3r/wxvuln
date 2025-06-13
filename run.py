@@ -156,7 +156,7 @@ def get_doonsec_url():
         for item in root.findall('./channel/item'):
             title = item.findtext('title') or ''
             link = item.findtext('link') or ''
-            if re.search(r'(复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行)', title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
+            if re.search(r'(复现|漏洞|信息泄漏|威胁情报|注入|XSS|内网|域控|安全运营|漏洞运营|情报运营|SRC|应急响应|APT|银狐|勒索病毒|CWE-\d+|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行)', title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
                 urls.append(link.rstrip(')'))
 
         return urls

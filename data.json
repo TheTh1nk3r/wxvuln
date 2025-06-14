@@ -15265,5 +15265,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=3&sn=067d2ba7017165b5d5a11a0f55a68e26": "2025-W24/2025-06-14/CVE-2025-32717｜Microsoft Word 远程代码执行漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=1&sn=00a861c9f71787095bc0b4811bb92b1f": "2025-W24/2025-06-14/CVE-2025-30220｜GeoServer XXE漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611062&idx=4&sn=6551c393b9f991ca13750837d910c5cf": "2025-W24/2025-06-14/DNSLog 平台克隆版（自定义域名支持）便于内网渗透测试与痕迹收集，同时绕过部分安全设备对 dnslog.cn 的拦截.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173428&idx=1&sn=bf293221f360824960d0a350a4d126bc": "2025-W24/2025-06-14/存在未授权访问漏洞等问题！北京市网信办依法查处两家违法企业.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173428&idx=1&sn=bf293221f360824960d0a350a4d126bc": "2025-W24/2025-06-14/存在未授权访问漏洞等问题！北京市网信办依法查处两家违法企业.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487469&idx=1&sn=0677187626749c95ebbd564871c8392e": "2025-W24/2025-06-14/CloudFlare XSS Bypass.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485807&idx=1&sn=f849a548f91e22fee19fce78d3285a8d": "2025-W24/2025-06-14/记一次SRC漏洞垂直越权挖掘.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489318&idx=3&sn=527642d53a41a12fa9035f80384e7bd5": "2025-W24/2025-06-14/2025 最佳漏洞赏金书籍和网站.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064203&idx=1&sn=6a9b3f9b1737e370daec30c6d4803d57": "2025-W24/2025-06-14/信息安全漏洞周报【第026期】.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485814&idx=1&sn=638a006a1df5e6023e808865601dd5e6": "2025-W24/2025-06-14/一次非常规功能点的存储XSS.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484243&idx=1&sn=dd3f56cb2e113d589d7e8fbdd373b32e": "2025-W24/2025-06-14/金融业“解码差异”漏洞.md"
 }

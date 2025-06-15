@@ -15294,5 +15294,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247485702&idx=1&sn=1f4dd354863e6204f109e0a90ab57055": "2025-W24/2025-06-15/【内网渗透基础】四、内网横向-NTLM中继攻击.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488985&idx=1&sn=1ff0c68a9ed7d0907ed159eca923f6a3": "2025-W24/2025-06-15/在注册页面中利用盲 XSS：接管管理面板并产生实际影响.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a": "2025-W24/2025-06-15/Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485103&idx=1&sn=39fb88b11cae5d38e87df61718887117": "2025-W24/2025-06-15/vulnerable_docker_containement（hard难度）MSF内网穿透、docker逃逸、wpscan爆破。.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485103&idx=1&sn=39fb88b11cae5d38e87df61718887117": "2025-W24/2025-06-15/vulnerable_docker_containement（hard难度）MSF内网穿透、docker逃逸、wpscan爆破。.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070183&idx=3&sn=ae6fc812748c1b2de669b41ea15f0631": "2025-W24/2025-06-15/【安全圈】Microsoft修复无法访问的Windows Server域控制器阅读量37638.md"
 }

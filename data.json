@@ -15291,5 +15291,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=2&sn=d97f508faa27cf71ce0646619e5dfbd6": "2025-W24/2025-06-15/CVE-2025-4123：Grafana 中通过开放重定向引发的 XSS.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=1&sn=7008b1da8378c0c1c830f9b7863867e2": "2025-W24/2025-06-15/让 Self-XSS 再次伟大.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "2025-W24/2025-06-15/DanaBleed：DanaBot C2 服务器内存泄漏漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247485702&idx=1&sn=1f4dd354863e6204f109e0a90ab57055": "2025-W24/2025-06-15/【内网渗透基础】四、内网横向-NTLM中继攻击.md"
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247485702&idx=1&sn=1f4dd354863e6204f109e0a90ab57055": "2025-W24/2025-06-15/【内网渗透基础】四、内网横向-NTLM中继攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488985&idx=1&sn=1ff0c68a9ed7d0907ed159eca923f6a3": "2025-W24/2025-06-15/在注册页面中利用盲 XSS：接管管理面板并产生实际影响.md"
 }

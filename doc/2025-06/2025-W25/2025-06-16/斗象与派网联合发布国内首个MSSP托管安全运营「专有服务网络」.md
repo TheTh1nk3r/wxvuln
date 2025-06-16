@@ -1,10 +1,9 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533765&idx=1&sn=04d9cd4768d48e5f245729d65802dba3
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323177&idx=2&sn=b953c199bec0bdc1efe4aacfcaec6b84
 
 #  斗象与派网联合发布国内首个MSSP托管安全运营「专有服务网络」  
- 斗象科技   2025-06-16 08:44  
+斗象科技  FreeBuf   2025-06-16 10:07  
   
-![](https://mmecoa.qpic.cn/sz_mmecoa_gif/hrWzJ3hmo1aXjPdsArTyaby6AvEiappicDoRchC83pjF6T1ELOfUyWaEiaaicJbWzf4F9xQYYGOLOGvz4jQGViabUMA/640?wx_fmt=gif "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
   
 ![](https://mmecoa.qpic.cn/sz_mmecoa_png/hrWzJ3hmo1aXjPdsArTyaby6AvEiappicDcLV7pH9Vp3PpX8QgP20aj23J6mXpNvfzE8acOibxESpokE1EfjMYK3Q/640?wx_fmt=png "")  
   
@@ -160,5 +159,7 @@ Agentic AI驱动的RMF框架
   
   
   
-![](https://mmecoa.qpic.cn/sz_mmecoa_gif/hrWzJ3hmo1aRRPMxfMia5ylNoobG6CHt0A9K3U69oGXMpoAmLJ8ytNhTgUoiacb299ePTnAoTChd2FxSriaz0nGcA/640?wx_fmt=gif "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif "")  
+  
   

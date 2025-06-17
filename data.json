@@ -15403,5 +15403,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=2&sn=d3e035c89c35c26ad0a1cad90861ac97": "2025-W25/2025-06-17/CISA 将TP-Link 路由器高危漏洞纳入KEV.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096336&idx=2&sn=c3e591e98ec6f4b4800be540858e1ccc": "2025-W25/2025-06-17/针对 Windows 磁盘清理提升漏洞的 PoC 漏洞揭晓.md",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625098&idx=1&sn=b7f13aaaaff72fe44b50119eb313ce98": "2025-W25/2025-06-17/区域控制器信息安全设计方法.md",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497741&idx=1&sn=c95ab3ad8c90379ea5e19a191a4afed0": "2025-W25/2025-06-17/AI大模型漏洞挖掘.md"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497741&idx=1&sn=c95ab3ad8c90379ea5e19a191a4afed0": "2025-W25/2025-06-17/AI大模型漏洞挖掘.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485905&idx=1&sn=bde9c0b7742a30ff31614872d63a3cbd": "2025-W25/2025-06-17/【漏洞复现】契约锁远程代码执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527256&idx=1&sn=5ec2b3e00647bca31d0f43634fa31435": "2025-W25/2025-06-17/腾讯iOA EDR：全方位狙击银狐木马，破解“钓鱼+免杀”组合拳.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489425&idx=3&sn=a123665f86b2c4290cd5d0ab47331d3a": "2025-W25/2025-06-17/任意文件读取&下载漏洞的全面解析及利用.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070217&idx=4&sn=24357525bac3eedf8eb46ebe78022a55": "2025-W25/2025-06-17/【安全圈】“Grafana Ghost”漏洞曝光，近四成公网实例仍未修复.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484894&idx=1&sn=ce166fe89794c77dc20e0a9e1cb74fe1": "2025-W25/2025-06-17/【复现】泛微E-cology9 前台SQL注入漏洞风险通告.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "2025-W25/2025-06-17/CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501194&idx=2&sn=37f99ddcaa7215ce29f34e62e2ac5eda": "2025-W25/2025-06-17/【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491309&idx=1&sn=6178a36525fbb6268e0ad09a12e1a80f": "2025-W25/2025-06-17/Docker Registry 5000端口漏洞图形化利用工具实战指南.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490251&idx=1&sn=a80edb0d0a63cff61c6d32b4c7952a9e": "2025-W25/2025-06-17/【高危漏洞预警】Apache Tomcat认证绕过漏洞(CVE-2025-49125).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247486498&idx=1&sn=955994fa959b7476d54984b129854da8": "2025-W25/2025-06-17/60个应急响应命令，网络安全应急工程师必备.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "2025-W25/2025-06-17/Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=1&sn=50e822ff30e5cc7f931139cb1a288b2c": "2025-W25/2025-06-17/华硕 Armoury Crate漏洞可导致攻击者获取Windows 管理员权限.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519617&idx=2&sn=1483881110233d318e2992b31c8bacef": "2025-W25/2025-06-17/EDUSRC | 记一次某学院小程序的打包（附小白小程序搜索思路）.md"
 }

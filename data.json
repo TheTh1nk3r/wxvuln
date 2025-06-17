@@ -15416,5 +15416,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247486498&idx=1&sn=955994fa959b7476d54984b129854da8": "2025-W25/2025-06-17/60个应急响应命令，网络安全应急工程师必备.md",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "2025-W25/2025-06-17/Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击.md",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=1&sn=50e822ff30e5cc7f931139cb1a288b2c": "2025-W25/2025-06-17/华硕 Armoury Crate漏洞可导致攻击者获取Windows 管理员权限.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519617&idx=2&sn=1483881110233d318e2992b31c8bacef": "2025-W25/2025-06-17/EDUSRC | 记一次某学院小程序的打包（附小白小程序搜索思路）.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519617&idx=2&sn=1483881110233d318e2992b31c8bacef": "2025-W25/2025-06-17/EDUSRC | 记一次某学院小程序的打包（附小白小程序搜索思路）.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492478&idx=1&sn=f7c44f86be38638134d679e6fb3b8ffd": "2025-W25/2025-06-17/ChkApi - API漏洞安全检测自动化工具、解析Swagger规范Bypass未授权检测等|漏洞探测.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512481&idx=1&sn=d403af9b610a2084cd79b961b4835b40": "2025-W25/2025-06-17/佳能imageCLASS打印机RCE漏洞分析.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494025&idx=1&sn=c65c31ec37d498ceaebb43aa278a3646": "2025-W25/2025-06-17/【在野利用】Windows WebDAV 远程代码执行漏洞(CVE-2025-33053).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494938&idx=1&sn=91a67ca633418f9dcb55b495272f75ab": "2025-W25/2025-06-17/插件推荐 | 哥斯拉一键注入正向代理suo5内存马.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485947&idx=1&sn=ba767dba115ee2c0bbfec4ae94498e0c": "2025-W25/2025-06-17/CVE-2025-49001 Dataease JWT 认证绕过导致未授权访问漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488631&idx=1&sn=0959127aeca102138d0d93b25dd5dc17": "2025-W25/2025-06-17/AstrBot get_file接口存在任意文件读取漏洞CVE-2025-48957 附POC.md"
 }

@@ -15424,5 +15424,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485947&idx=1&sn=ba767dba115ee2c0bbfec4ae94498e0c": "2025-W25/2025-06-17/CVE-2025-49001 Dataease JWT 认证绕过导致未授权访问漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488631&idx=1&sn=0959127aeca102138d0d93b25dd5dc17": "2025-W25/2025-06-17/AstrBot get_file接口存在任意文件读取漏洞CVE-2025-48957 附POC.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "2025-W25/2025-06-17/CVE-2025-33073 针对 NTLM 反射 SMB 缺陷.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519483&idx=2&sn=3c4e2e0d37228978a4558b3659a3caae": "2025-W25/2025-06-17/src专项挖掘知识库.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519483&idx=2&sn=3c4e2e0d37228978a4558b3659a3caae": "2025-W25/2025-06-17/src专项挖掘知识库.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521083&idx=1&sn=a91574dc7063fe2f72c42be0861abc94": "2025-W25/2025-06-17/php代码审计篇 - 信呼OA 前台注入.md"
 }

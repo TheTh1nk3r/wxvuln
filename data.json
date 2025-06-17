@@ -15380,5 +15380,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516823&idx=1&sn=d8671ca4475900732cf71c35861bbfab": "2025-W25/2025-06-16/Nuclei POC 漏洞验证可视化工具 -- Wavely（6月12日更新）.md",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488619&idx=1&sn=b4140b435210a6e9a18601d49439fcb4": "2025-W25/2025-06-16/Apache Kafka Connect接口存在任意文件读取漏洞与SSRF漏洞CVE-2025-27817 附POC.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493005&idx=1&sn=d8de30626c12b1ff885b2089b6a483b2": "2025-W25/2025-06-16/Output Messenger 漏洞被利用作为间谍攻击的零日漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "2025-W25/2025-06-16/一款渗透场景下的内网漏洞自动化扫描工具.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "2025-W25/2025-06-16/一款渗透场景下的内网漏洞自动化扫描工具.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488117&idx=1&sn=3b34f82ff0a524550f1a692cb328f9bc": "2025-W25/2025-06-17/高危预警！Windows曝“反射型Kerberos中继攻击”漏洞，攻击者可直取SYSTEM权限(含POC链接).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484832&idx=1&sn=9a171d184af60ecce4816d36d84c0352": "2025-W25/2025-06-17/【漏洞复现】九思oa-XXE.md"
 }

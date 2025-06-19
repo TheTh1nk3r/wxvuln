@@ -15519,5 +15519,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488333&idx=1&sn=7b13a07dd5ab4b02ee95f21be9b7ffee": "2025-W25/2025-06-19/达梦数据库手动注入.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "2025-W25/2025-06-19/关于漏洞“宝塔Linux面板存在任意命令执行”的说明.md",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488656&idx=1&sn=0f20df860f2ce3b09498578185b5795d": "2025-W25/2025-06-19/GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "2025-W25/2025-06-19/CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "2025-W25/2025-06-19/CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "2025-W25/2025-06-19/Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484866&idx=1&sn=65eb8293ccb79f02d72c47f620a51d97": "2025-W25/2025-06-19/【攻防利器】Tomcat漏洞批量检测工具.md"
 }

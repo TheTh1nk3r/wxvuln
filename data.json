@@ -15466,5 +15466,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488131&idx=1&sn=47a1bd3f6af2b827fd64537d32891151": "2025-W25/2025-06-19/Linux核心转存漏洞：CVE-2025-5054（POC）.md",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908301&idx=2&sn=4efd8f7893bdd09059139a9772c040a9": "2025-W25/2025-06-19/Suricata全新威胁情报规则功能技术预览.md",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512487&idx=1&sn=9d79e4b58281b6f0282d45507656343c": "2025-W25/2025-06-19/微软2025年6月补丁日重点漏洞安全预警.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583016&idx=1&sn=3779c200d5b53c656dd00799324e1aea": "2025-W25/2025-06-19/超过84000个Roundcube网络邮件安装受到RCE漏洞影响.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583016&idx=1&sn=3779c200d5b53c656dd00799324e1aea": "2025-W25/2025-06-19/超过84000个Roundcube网络邮件安装受到RCE漏洞影响.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247485540&idx=1&sn=226a92e7b10d6effe9bd3c9c5f8145f1": "2025-W25/2025-06-19/DLL 注入术（一）：理解 DLL，掌控加载入口.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664995326&idx=1&sn=10c9030392578760a720fc2d6c17ac80": "2025-W25/2025-06-19/巡展｜BCS2025中国网络安全优秀案例 · 实战化安全运营方向（上）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500901&idx=1&sn=2ab5b540e69020a048884ea095ed11a2": "2025-W25/2025-06-19/绞尽脑汁的宝塔漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "2025-W25/2025-06-19/一个高性能的目录遍历漏洞扫描工具.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546563&idx=2&sn=e3b299fc15a136e45ca0efdd0cbaf3b9": "2025-W25/2025-06-19/Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=1&sn=33329d3ec49e0f180be0dcedb8cd70a4": "2025-W25/2025-06-19/谷歌 Gerrit 代码平台漏洞可用于供应链攻击，18个谷歌项目受影响.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499897&idx=2&sn=7d925e5d12e879aa042777f532200beb": "2025-W25/2025-06-19/.NET 内网攻防实战电子报刊.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "2025-W25/2025-06-19/红队终极指南：“A-poc∕RedTeam-Tools”.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184056&idx=1&sn=b6e2a1263778f31b24012ce87571983d": "2025-W25/2025-06-19/“银狐”后面还有高手！揭秘钓鱼电诈套件“金蝉”.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491859&idx=1&sn=8d77eaf8aac84238abc49fe49e499497": "2025-W25/2025-06-19/三汇 SMG网关管理软件 9-2radius.php 命令执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550512&idx=1&sn=600847a31bfec631b59a0c1a2a8073d3": "2025-W25/2025-06-19/一次前端泄露密码送来的赏金漏洞.md"
 }

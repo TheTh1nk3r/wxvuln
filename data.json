@@ -15501,5 +15501,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484912&idx=1&sn=231332522ccc8edc4d7cd46df1c75b8c": "2025-W25/2025-06-19/初识安全漏洞防治SOP.md",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908313&idx=1&sn=87a20fea7a0c6a7945693d4bea825696": "2025-W25/2025-06-19/Chrome N-Day漏洞利用工程指南.md",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=1&sn=d48bf4bef564819f0e7b48beb5277bbd": "2025-W25/2025-06-19/【高危漏洞预警】SUSE 15 PAM本地提权漏洞（CVE-2025-6018）.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523333&idx=2&sn=23cefe4214956d3fbac95c79c5396243": "2025-W25/2025-06-19/udisks 漏洞可用于获得Linux 主要发行版本的root权限.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523333&idx=2&sn=23cefe4214956d3fbac95c79c5396243": "2025-W25/2025-06-19/udisks 漏洞可用于获得Linux 主要发行版本的root权限.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490093&idx=1&sn=ffbaf3d4e625ed19fa5b42e21559eb3c": "2025-W25/2025-06-19/哪里来的**，又来SRC要饭来了？.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070247&idx=4&sn=a9da49b7c850012e89fbee85c39fe677": "2025-W25/2025-06-19/【安全圈】CISA警告攻击者利用Linux漏洞进行攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486412&idx=1&sn=be56a747f065aecc4f7aff884f151e2b": "2025-W25/2025-06-19/漏洞赏金工具 - BBtool.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492504&idx=1&sn=2f31d08e1643453d69ca412e26940a7c": "2025-W25/2025-06-19/关于滴滴SRC存储桶aksk泄露被判低危.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488461&idx=1&sn=b88287aca61333f93fdcff10e3b8f467": "2025-W25/2025-06-19/【免杀】loader和shellcode分离-图片注入shellcode.md"
 }

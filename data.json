@@ -15517,5 +15517,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489427&idx=1&sn=7f1e28621d60874665996bfed2a5abbb": "2025-W25/2025-06-19/关于漏洞“宝塔Linux面板存在任意命令执行”的说明.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492539&idx=1&sn=250730046fc1116e0a28c8ea9e77bbb5": "2025-W25/2025-06-19/Burp新利器解决请求包加密问题 CloudX自动化解密AES、SM4、DES等加密方式的接口|漏洞探测.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488333&idx=1&sn=7b13a07dd5ab4b02ee95f21be9b7ffee": "2025-W25/2025-06-19/达梦数据库手动注入.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "2025-W25/2025-06-19/关于漏洞“宝塔Linux面板存在任意命令执行”的说明.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "2025-W25/2025-06-19/关于漏洞“宝塔Linux面板存在任意命令执行”的说明.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488656&idx=1&sn=0f20df860f2ce3b09498578185b5795d": "2025-W25/2025-06-19/GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "2025-W25/2025-06-19/CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞.md"
 }

@@ -15571,5 +15571,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "2025-W25/2025-06-20/信息安全漏洞周报【第027期】.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492131&idx=1&sn=b52a7e61fe1203492036fa5e5881cf34": "2025-W25/2025-06-20/安全威胁情报周报（2025∕06∕14-2025∕06∕20）.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487488&idx=1&sn=a07090fe47afa7fa1c9bb2f968aadd2a": "2025-W25/2025-06-20/CVE-2024-55591 Fortinet FortiOS 身份验证绕过.md",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=2&sn=bb25cb772bed5bb954b079821a9ac205": "2025-W25/2025-06-20/NTLM 反射攻击复现 - 滥用 NTLM 进行权限提升 (CVE-2025-33073).md"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=2&sn=bb25cb772bed5bb954b079821a9ac205": "2025-W25/2025-06-20/NTLM 反射攻击复现 - 滥用 NTLM 进行权限提升 (CVE-2025-33073).md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "2025-W25/2025-06-20/Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533745&idx=2&sn=a176b8fa0297f6d311e87c46b62a9f49": "2025-W25/2025-06-20/荐读丨工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=3&sn=24cefa58e29f9132413362fcfc5c2177": "2025-W25/2025-06-20/IBM QRadar SIEM 漏洞允许攻击者执行任意命令.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596037&idx=4&sn=fb4c9bd8a84e95a40a020f981c5e7885": "2025-W25/2025-06-20/《CTF训练营-Web篇》更新：反序列化漏洞（四）Laravel反序列化链分析.md"
 }

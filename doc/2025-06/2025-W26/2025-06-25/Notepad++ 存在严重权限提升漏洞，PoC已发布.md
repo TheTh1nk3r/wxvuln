@@ -1,18 +1,14 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323665&idx=1&sn=15875d40f858538184006215073544fb
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611176&idx=2&sn=d245aba5b4fef5f22ba543ba93694efb
 
 #  Notepad++ 存在严重权限提升漏洞，PoC已发布  
- FreeBuf   2025-06-24 11:03  
+ 黑白之道   2025-06-25 01:55  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR38LEqIgxpLGJtu8bNZDFVwZP0sS7FPyicNSZ738FsdImsokSwroVjicg5eRmHDibKwYnibIqg7eaY1Wng/640?wx_fmt=png&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 Notepad++ 8.8.1版本中发现一个严重的权限提升漏洞，可能导致全球数百万用户面临系统完全被控制的风险。该漏洞编号为CVE-2025-49144，攻击者可通过二进制植入技术获取SYSTEM级权限，目前已有公开的概念验证演示。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LEqIgxpLGJtu8bNZDFVwZicoV0ibgHPxWTOibyRus4K8Qvhde1j3D9mzJiceRtKP01UibYdJibE8QkQzA/640?wx_fmt=jpeg&from=appmsg "")  
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LEqIgxpLGJtu8bNZDFVwZicoV0ibgHPxWTOibyRus4K8Qvhde1j3D9mzJiceRtKP01UibYdJibE8QkQzA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 **Part01**  
@@ -32,7 +28,7 @@ Notepad++ 8.8.1版本中发现一个严重的权限提升漏洞，可能导致�
 攻击过程非常简单，充分展示了二进制植入攻击的危险性。攻击者可在Notepad++安装程序所在目录放置恶意可执行文件（如被篡改的regsvr32.exe）。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LEqIgxpLGJtu8bNZDFVwZibjf8ZiccZZE9nPwia5FmJiaI2FF23EnYnkE24icj3D2Q1Bbf3VrEDaTtrw/640?wx_fmt=jpeg&from=appmsg "")  
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LEqIgxpLGJtu8bNZDFVwZibjf8ZiccZZE9nPwia5FmJiaI2FF23EnYnkE24icj3D2Q1Bbf3VrEDaTtrw/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 当用户运行安装程序时，系统会自动以SYSTEM权限加载恶意文件，使攻击者获得目标机器的完全控制权。概念验证材料中的Process Monitor日志清晰展示了安装程序在当前目录搜索可执行文件的漏洞行为。  
@@ -61,26 +57,15 @@ Notepad++开发团队迅速做出响应，发布8.8.2版本修复该关键漏洞
 该事件凸显了安全软件开发实践的重要性，特别是在可信应用程序的安装程序设计和依赖项加载机制方面。随着网络威胁不断演变，安全社区强调需要对影响广泛使用软件平台的新威胁采取主动漏洞管理和快速响应措施。  
   
   
-**参考来源：**  
-  
-Notepad++ Vulnerability Let Attacker Gain Complete System Control – PoC Released  
-  
-https://cybersecuritynews.com/notepad-vulnerability/  
-  
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323514&idx=1&sn=0da8f04aecf7bbb0f3dca8f4bd1ff81f&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
+> **文章来源：freebuf**  
   
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
+  
   

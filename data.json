@@ -15757,5 +15757,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "2025-W26/2025-06-24/【漏洞复现】一次不一样的逻辑绕过.md",
     "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247506352&idx=1&sn=c9c57e22e7b3300fe2c7d07520d1f339": "2025-W26/2025-06-24/APT-C-06（DarkHotel）利用BYOVD技术的最新攻击活动分析.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489766&idx=1&sn=00ea42b7a9e3d0612d29d9a618ca4d67": "2025-W26/2025-06-24/《内网攻防：2025攻防开始前夕，学会如何突破Jumpserver堡垒机》.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596239&idx=3&sn=d782404acf8421ef63b6789bd3a99a90": "2025-W26/2025-06-24/WinRAR现高危漏洞，恶意文件可致远程代码执行.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596239&idx=3&sn=d782404acf8421ef63b6789bd3a99a90": "2025-W26/2025-06-24/WinRAR现高危漏洞，恶意文件可致远程代码执行.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037762&idx=1&sn=e180a260fc140e02cebd898bf1b1fead": "2025-W26/2025-06-25/Android系统内核漏洞利用技术入门.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531295&idx=1&sn=eb0ef566f205a850da5af7a89d54fbc7": "2025-W26/2025-06-25/Internet 快捷方式文件远程代码执行漏洞 CVE-2025-33053 概念验证（PoC）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531295&idx=2&sn=1bf7b0c5827626d1954d97ddab0be670": "2025-W26/2025-06-25/CVE-2025-33053，Stealth Falcon 和 Horus：中东网络间谍活动传奇.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzYwNDU0Mg==&mid=2649252647&idx=3&sn=1fce4b2a059071067f6ad16365c0e3f2": "2025-W26/2025-06-25/【新思想引领新征程】我国人工智能领域快速发展 为高质量发展注入新动能.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531289&idx=1&sn=5722bb18f3e15632dd080ec4df5c6ca7": "2025-W26/2025-06-25/Node.js < 3.0.0 pbkdf2 漏洞 PoC 公开：Uint8Array 输入被静默忽略导致静态密钥输出.md"
 }

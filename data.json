@@ -15777,5 +15777,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506254&idx=1&sn=8945ac3b22b0e0ec85487c07f59e79bd": "2025-W26/2025-06-25/应急响应之linux 排查.md",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795533&idx=1&sn=72c3ca5e960d19d7c59bd5ff386a0eca": "2025-W26/2025-06-25/WinRAR 目录漏洞允许使用恶意文件执行任意代码.md",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "2025-W26/2025-06-25/微软MSRC的漏洞情报“剽窃”策略.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484473&idx=1&sn=72dbb861fc8336a1ec596800f5ed6f51": "2025-W26/2025-06-25/靶场攻防|SSRF漏洞打穿内网（1）.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484473&idx=1&sn=72dbb861fc8336a1ec596800f5ed6f51": "2025-W26/2025-06-25/靶场攻防|SSRF漏洞打穿内网（1）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499953&idx=2&sn=91a6b20b0e55f87ce6cc45496698cd6a": "2025-W26/2025-06-25/.NET 内网攻防实战电子报刊.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486111&idx=1&sn=b7d8865b37ec95f6ad4484cd959fc3ea": "2025-W26/2025-06-25/Docker API 漏洞成黑客跳板，配合Tor 匿名网络正偷走你的加密货币.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2Mjg1NjY4Nw==&mid=2247490692&idx=1&sn=dc8c2736d948899825fbd4e6009b3def": "2025-W26/2025-06-25/【涨知识】银狐新木马加密通信分析.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491624&idx=1&sn=564f5b5681cb0c0d3cab6b8c020e9467": "2025-W26/2025-06-25/清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月24日.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495306&idx=1&sn=63877dda1ec999aa366279981ce8797b": "2025-W26/2025-06-25/360SRC | 毕业季冲榜：去赴青春那场约.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499953&idx=3&sn=35d070e846b8f01bd8d441b1dae2c836": "2025-W26/2025-06-25/.NET 通过 XAML 实现任意代码执行.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486354&idx=1&sn=0b6895de460dea4931b4ab5de8f88918": "2025-W26/2025-06-25/APT28换套路：这只“俄罗斯间谍熊”，盯上了全球邮件服务器！.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492096&idx=1&sn=5f497b3d236bb09431d51419bebc6eb2": "2025-W26/2025-06-25/【渗透测试】记录某企业存储型XSS漏洞从发现到数据外泄全路径分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491923&idx=1&sn=0a5aad1317aad151a2b751e12641e71e": "2025-W26/2025-06-25/GeoServer XXE漏洞 (CVE-2025-30220).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507815&idx=1&sn=d7d2e2bc59c6884536c20a26dfcbe559": "2025-W26/2025-06-25/漏洞通告 | Gogs远程命令注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486005&idx=1&sn=264eaaced170be759dbfc03828c82d65": "2025-W26/2025-06-25/【威胁情报】：Notepad++ 本地提权漏洞 | POC目前已公开.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463199&idx=1&sn=8b9360adb7f25f9377ced0a8e8e8eda8": "2025-W26/2025-06-25/信息安全漏洞周报（2025年第25期）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247509310&idx=1&sn=e5a6223ac87f2454821b3766ea48f224": "2025-W26/2025-06-25/2000万「网络安全运营」组件集采项目，这家中标！.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535332&idx=5&sn=7700ce5764c969ea25c1b48668b198fb": "2025-W26/2025-06-25/多部门联手！未成年人安全漏洞整治风暴征民意.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485939&idx=1&sn=03c3ffef5a2ae3b4cd0db6c79534f4a3": "2025-W26/2025-06-25/工具分享 | 一款JumpServer堡垒机未授权综合漏洞利用脚本（近期更新）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506789&idx=1&sn=ac6c506a103f943a10d3556aaa61cd02": "2025-W26/2025-06-25/破解 JWT：漏洞赏金猎人指南（第三部分）.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546728&idx=3&sn=64a81159f0079c1d782bad8db1000462": "2025-W26/2025-06-25/信息安全工程师系列-第13关 网络安全漏洞防护技术原理与应用.md"
 }

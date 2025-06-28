@@ -15958,5 +15958,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "2025-W26/2025-06-28/Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490817&idx=1&sn=ed22afb84906586ab151f012d376f7b3": "2025-W26/2025-06-28/若依Vue漏洞检测工具.md",
     "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "2025-W26/2025-06-28/【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125).md",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "2025-W26/2025-06-28/WinRAR目录遍历漏洞允许通过恶意文件执行任意代码.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "2025-W26/2025-06-28/WinRAR目录遍历漏洞允许通过恶意文件执行任意代码.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488179&idx=1&sn=a1a850ad1934a17311012098f9076953": "2025-W26/2025-06-28/国家级机构竟被冒充！\"银狐\"双料攻击：钓鱼网站暗藏间谍木马+隐形Rootkit.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507500&idx=1&sn=a0e397c9b8f8b58130b1e80de7ece293": "2025-W26/2025-06-28/【一周安全资讯0628】2025年“净网”“护网”专项工作部署会召开；首个针对AI安全分析工具的提示注入恶意软件现身.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=1&sn=83ab8c76ec0db3d5080561c57c2fb5f3": "2025-W26/2025-06-28/CVE-2025-4123｜Grafana SSRF漏洞（POC）.md"
 }

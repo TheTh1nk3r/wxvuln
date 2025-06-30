@@ -16048,5 +16048,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=2&sn=a3d57d6619d987a8d64a725f1bc82373": "2025-W27/2025-06-30/CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "2025-W27/2025-06-30/CNVD漏洞周报2025年第24期.md",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490329&idx=1&sn=7a5a2c55b2fbbb3fa44d710232beeb33": "2025-W27/2025-06-30/【高危漏洞预警】Apache Seata反序列化漏洞(CVE-2025-32897).md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "2025-W27/2025-06-30/【已复现】DataEase 多个远程代码执行漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "2025-W27/2025-06-30/【已复现】DataEase 多个远程代码执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "2025-W27/2025-06-30/群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户.md"
 }

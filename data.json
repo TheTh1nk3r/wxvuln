@@ -16081,5 +16081,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=2&sn=83c2447b992df23e90763e24e1aa844a": "2025-W27/2025-07-01/漏洞预警 | 绿盟网络入侵防护系统信息泄露漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503538&idx=1&sn=5439ec7c9b1446ac237be77feab8fcd0": "2025-W27/2025-07-01/【已复现】WinRAR 目录穿越漏洞(CVE-2025-6218)安全风险通告.md",
     "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "2025-W27/2025-07-01/Chrome在野CVE-2025-6554漏洞poc公布.md",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531480&idx=1&sn=2e497359655cae7f01a5cd5eaf883a10": "2025-W27/2025-07-01/CVE-2025-4664：利用 Chrome 0day 漏洞泄露会话令牌.md"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531480&idx=1&sn=2e497359655cae7f01a5cd5eaf883a10": "2025-W27/2025-07-01/CVE-2025-4664：利用 Chrome 0day 漏洞泄露会话令牌.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTQwMDY1NA==&mid=2247485463&idx=1&sn=fcff1fc7cec09f4a4904d2901369bed0": "2025-W27/2025-07-01/Web篇 | 从防御到绕过：剖析长亭雷池WAF防护机制与SQL注入绕过测试.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "2025-W27/2025-07-01/谷歌紧急修复已遭利用的 Chrome 0day漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489169&idx=1&sn=12e8f36dd27a550376215017f2cf31bd": "2025-W27/2025-07-01/漏洞通告：Sudo Host 选项本地权限提升漏洞（Elevation of Privilege）.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "2025-W27/2025-07-01/【0day】泛微OA前台登录绕过+后台组合拳RCE.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492897&idx=1&sn=200f78d280c37069d42eb4e905bb1352": "2025-W27/2025-07-01/安卓版CobaltStrike：远程控制的终极利器|漏洞探测.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94": "2025-W27/2025-07-01/悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "2025-W27/2025-07-01/【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "2025-W27/2025-07-01/【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463).md"
 }

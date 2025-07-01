@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94
 
 #  悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复  
-原创 腾讯悟空团队  腾讯技术工程   2025-07-01 09:38  
+ 腾讯安全应急响应中心   2025-07-01 10:05  
   
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/j3gficicyOvasVeMDmWoZ2zyN8iaSc6XWYj79H3xfgvsqK9TDxOBlcUa6W0EE5KBdxacd2Ql6QBmuhBJKIUS4PSZQ/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
@@ -16,8 +16,7 @@ day
   
 ### 一、LLaMA-Factory简介  
   
-[LLaMA-Factory](https://www.llamafactory.cn/)  
-  
+LLaMA-Factory  
 是一个功能强大且用户友好的开源框架，在 GitHub 上斩获了超过 53K Stars，专注于大语言模型（LLM）的高效微调（Fine-tuning）。凭借其易用性和灵活性，LLaMA-Factory 已成为许多开发者和研究团队进行模型训练与部署的首选工具。  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/j3gficicyOvav75ZsABYYfS0icVlXoticev6A5fibBGiakicy7gp8hPqIjBqhibt9zLJhSOGe4xrGGJTDChuXxMswE1TRA/640?wx_fmt=png&from=appmsg "")  
@@ -111,8 +110,7 @@ AI Agent
   
   
 （图：  
-[Github官方项目Security公告](https://github.com/hiyouga/LLaMA-Factory/security/advisories/GHSA-xj56-p8mm-qmxj)  
-  
+Github官方项目Security公告  
 ）  
 ## 修复方案：  
   
@@ -142,8 +140,7 @@ weights_only=True
   
   
 ▲   
-[关键补丁：启用PyTorch安全模式阻断反序列化攻击](https://github.com/hiyouga/LLaMA-Factory/commit/bb7bf51554d4ba8432333c35a5e3b52705955ede)  
-  
+关键补丁：启用PyTorch安全模式阻断反序列化攻击  
   
 ### 四、 技术分析  
 ## 漏洞摘要   

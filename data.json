@@ -16111,5 +16111,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "2025-W27/2025-07-02/IBM WebSphere Application Server 允许远程执行代码漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "2025-W27/2025-07-02/工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】.md",
     "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517267&idx=1&sn=15af7e76cfcf20622dd19551e3a1bf78": "2025-W27/2025-07-02/6款较流行的开源漏洞扫描工具推荐及特点分析.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=2&sn=7eaa7a233328d3b766efc96d6a7e7cb5": "2025-W27/2025-07-02/sudo权限提升漏洞(CVE-2025-32462).md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=2&sn=7eaa7a233328d3b766efc96d6a7e7cb5": "2025-W27/2025-07-02/sudo权限提升漏洞(CVE-2025-32462).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=3&sn=dd62bdcebd45435784a51275cb020f0a": "2025-W27/2025-07-02/【漏洞通告】Linux sudo chroot 任意代码执行漏洞 (CVE-2025-32463).md",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "2025-W27/2025-07-02/CVE-2025-32462&CVE-2025-32463.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "2025-W27/2025-07-02/雷神众测漏洞周报2025.6.23-2025.6.29.md"
 }

@@ -16101,5 +16101,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "2025-W27/2025-07-02/【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "2025-W27/2025-07-02/【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554).md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "2025-W27/2025-07-02/如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE.md",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=2&sn=86629b3263f28d0b5ff467601908b3e6": "2025-W27/2025-07-02/.NET内网实战：.NET 红队通过 SharpZipLib 批量压缩打包文件.md"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=2&sn=86629b3263f28d0b5ff467601908b3e6": "2025-W27/2025-07-02/.NET内网实战：.NET 红队通过 SharpZipLib 批量压缩打包文件.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=1&sn=4dea0397669732bd3731580094ffef5a": "2025-W27/2025-07-02/【7.1】-威胁情报汇总.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523733&idx=1&sn=fb0f51ca0a538974be1a4942d2ecea2f": "2025-W27/2025-07-02/【全网首发】助力护网！企业级内网渗透靶场《GreenTiger》正式发布！.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "2025-W27/2025-07-02/Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493032&idx=1&sn=4c5359265b0d1f75b599a6bd9dfb7555": "2025-W27/2025-07-02/【全网首发】助力护网！企业级内网渗透靶场《GreenTiger》正式发布！.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": "2025-W27/2025-07-02/.NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载.md"
 }

@@ -16100,5 +16100,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "2025-W27/2025-07-02/MongoDB 服务器预认证漏洞可用于触发 DoS 条件.md",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "2025-W27/2025-07-02/【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "2025-W27/2025-07-02/【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554).md",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "2025-W27/2025-07-02/如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE.md"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "2025-W27/2025-07-02/如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=2&sn=86629b3263f28d0b5ff467601908b3e6": "2025-W27/2025-07-02/.NET内网实战：.NET 红队通过 SharpZipLib 批量压缩打包文件.md"
 }

@@ -16321,5 +16321,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "2025-W28/2025-07-07/安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "2025-W28/2025-07-07/Web服务器面临认证前RCE与管理员接管风险，PoC已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247487963&idx=1&sn=0601faf1ed55145a4353fbe19de8bcee": "2025-W28/2025-07-07/AI赋能安全运营，首次实机演示线上曝光！.md",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "2025-W28/2025-07-07/【7∕7特辑】今日捕获大量漏洞！.md"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "2025-W28/2025-07-07/【7∕7特辑】今日捕获大量漏洞！.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494156&idx=1&sn=c21b3f8c0e2a9a0d88ea9e8b296e7c3a": "2025-W28/2025-07-07/【已复现】Citrix NetScaler ADC和NetScaler Gateway越界读漏洞(CVE-2025-5777).md",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486235&idx=1&sn=d6ca3209142d51b045d6529d1f556d48": "2025-W28/2025-07-07/某供应商运维安全管理系统存在命令执行漏洞.md"
 }

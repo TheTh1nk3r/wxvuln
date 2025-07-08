@@ -16360,5 +16360,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485648&idx=1&sn=f99b74e8bbb7c0ce7a89ede7b575081e": "2025-W28/2025-07-08/护网系列 威胁情报共享7.8.md",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "2025-W28/2025-07-08/【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367).md",
     "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507111&idx=1&sn=aa2c1910a15aed642f0daf7ef8e38699": "2025-W28/2025-07-08/APT-C-55（Kimsuky）组织基于VMP强壳的HappyDoor后门攻击分析.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "2025-W28/2025-07-08/【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023).md"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "2025-W28/2025-07-08/【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023).md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324586&idx=1&sn=edaf868c5c5e19239d5ddd9a4a9e7b99": "2025-W28/2025-07-08/Linux启动漏洞可绕过现代Linux系统的安全启动保护.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "2025-W28/2025-07-08/【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "2025-W28/2025-07-08/Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487548&idx=1&sn=7b0fb2f3107df101675679504bbb0c10": "2025-W28/2025-07-08/PHP 漏洞 CVE-2025-6491（SOAP DoS）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "2025-W28/2025-07-08/一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。.md"
 }

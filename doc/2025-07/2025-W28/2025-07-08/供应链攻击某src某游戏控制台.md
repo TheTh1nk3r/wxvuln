@@ -1,7 +1,24 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485262&idx=1&sn=4b8fdb61038c559fa29081f6d69e4c1c
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504735&idx=1&sn=750c761bce9876f0e123963b8512cd6c
 
 #  供应链攻击某src某游戏控制台  
- 梅苑安全   2025-07-08 14:40  
+ 听风安全   2025-07-08 08:04  
+  
+#   
+  
+**免责声明**  
+  
+由于传播、利用本公众号听风安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号听风安全及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+  
+公众号现在只对常读和星标的公众号才展示大图推送，  
+  
+建议大家把  
+听风安全  
+  
+设为**星标**  
+，否则可能就看不到啦！  
+  
+----------------------------------------------------------------------  
   
 1.前言  
   
@@ -23,7 +40,7 @@ v1-prod-gmxxx-abcd.xxx.com
   
 有IP限制，当然要试试各种伪造IP的请求头，这里用最经典的XFF头发现可以伪造，但是伪造127.0.0.1依然无法成功访问到后台，FUZZ了一下1.1.1.1、8.8.8.8之类的常见测试IP，发现均无法访问后台。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/2A06BE6JXgbicCeRIC2ZMFHQv8r3Vo8kqkKwZ1ibT17QdxkicI3fJG8shAT8CvZSG4L9cjxW2VtPeKRlzgwbicMpvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/2A06BE6JXgbicCeRIC2ZMFHQv8r3Vo8kqiaibibNFavHTLYG30kiaRICJ6x3cW5HVWdiaB9aCvZlicGicpa2nUrAq2ok8g/640?wx_fmt=png&from=appmsg "")  
   
 下面我们的目标就是先找一个能访问这个控制台的IP，有一种方法就是加载所有CN地区的IP然后去硬爆，但是这样过于粗暴了，万一被对面发现直接应急了，那后续都没法测了。于是我打起了这家游戏的供应商的注意。  
   
@@ -162,7 +179,7 @@ X-Forwarded-For: 1xx.xxx.xxx.xx4 
   
 同时提取接口文档里的接口以及从目标后台JS文件中提取出的接口，将其拼接至v1-prod-gmxxx-abcd.xxx.com，尝试测试目标的接口。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/2A06BE6JXgbicCeRIC2ZMFHQv8r3Vo8kqfUQHz3w27xblurMVu1yoZvnNMTnaLU7aaIiaGVViaVMHiasYUdiaI3ECmw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/2A06BE6JXgbicCeRIC2ZMFHQv8r3Vo8kqEqg7nTRaBsug1es7JRKkPp8MHHz26m2Fm19moMyMGCEMPCvFdPCvwQ/640?wx_fmt=png&from=appmsg "")  
   
 这意味着我们除了可以影响官服的xycd游戏，还可以影响另一边这个服务器（你懂的  
   
@@ -184,5 +201,32 @@ X-Forwarded-For: 1xx.xxx.xxx.xx4 
 6.结语  
   
 这次攻击流程全程其实没用什么特殊的姿势，关键点就在于在测试过程中留意各种信息，并且在关键的时刻利用/复用这些信息。我其实是当成解谜游戏来玩的，两者确实有极多相似之处，寻找白名单IP就是这个游戏的主线任务，在完成这个主线的过程中，还要注意各种看似无关的信息的搜集，比如接口的结构和命名规则、硬编码的token等各种信息。等剧情推进到关键节点的时候，你所搜集的所有信息拼凑在一起就能完成任务。  
+  
+不可错过的往期推荐哦  
+  
+  
+
+```
+
+破译之眼：AI重构前端渗透对抗新范式渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入记一次帮丈母娘破解APP，满满的全是思路APP渗透|0基础师傅也可以通杀测试金融APP了一文学会内网横向伪FinalShell官网“钓鱼”，后门病毒窃密企业SSH凭证渗透测试 | 某系统三连shell
+```
+
+  
+  
+点击下方名片，关注我们  
+  
+  
+  
+觉得内容不错，就点下  
+“**赞**  
+”  
+和  
+“**在看**  
+”  
+  
+  
+如果不想错过新的内容推送可以设为**星标**  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Yv6ic9zgr5hTYyCkc91euAiaGULJSbiaHricFHs2dd2sib20WTJKwHYD90Jia9HCKxnmJUwnkicGU7rVP3EYCVh3dMnng/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
   
   

@@ -16392,5 +16392,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "2025-W28/2025-07-08/CVE-2024-0582 内核提权详细分析.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "2025-W28/2025-07-08/HW（2025-7-8）护网漏洞信息收集汇总.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489669&idx=1&sn=24f32f9e8bfc22531976a69e090a10d6": "2025-W28/2025-07-09/SRC实战 | 供应链攻击某src某游戏控制台.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "2025-W28/2025-07-09/【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "2025-W28/2025-07-09/【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "2025-W28/2025-07-09/【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "2025-W28/2025-07-09/漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023).md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "2025-W28/2025-07-09/Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493136&idx=2&sn=0551738af5e080e6537e1ed16f6b1e25": "2025-W28/2025-07-09/.NET 内网攻防实战电子报刊.md"
 }

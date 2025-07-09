@@ -16420,5 +16420,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "2025-W28/2025-07-09/【已复现】Git 远程代码执行漏洞(CVE-2025-48384).md",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "2025-W28/2025-07-09/【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马.md",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "2025-W28/2025-07-09/【已复现】泛微E-cology9存在SQL注入漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486397&idx=1&sn=764ccb0b07324800578b23a9113db805": "2025-W28/2025-07-09/Windows应急响应“拆弹指南”：深入排查潜伏在系统启动项中的“定时炸弹”.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486397&idx=1&sn=764ccb0b07324800578b23a9113db805": "2025-W28/2025-07-09/Windows应急响应“拆弹指南”：深入排查潜伏在系统启动项中的“定时炸弹”.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490818&idx=2&sn=c57891f61a1d8e13189561b0adc4ad5d": "2025-W28/2025-07-09/供应链攻击某src某游戏控制台.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "2025-W28/2025-07-09/【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488079&idx=1&sn=364fc8004013684ac3bfc7ab330a7dff": "2025-W28/2025-07-09/无问AI模型实测免杀、资产搜集、应急响应能力.md"
 }

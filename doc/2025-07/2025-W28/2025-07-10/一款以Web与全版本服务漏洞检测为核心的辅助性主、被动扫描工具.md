@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489947&idx=2&sn=e6a1f5fc0876c99510cae96989056453
 
 #  一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具  
-菜狗  富贵安全   2025-07-10 00:50  
+菜狗  富贵安全   2025-07-10 04:30  
   
 ### 以 Web 和完整版服务漏洞检测为核心的辅助主动和被动扫描工具。|一款以 Web 与全版本服务漏洞检测为核心的辅助性主  
 ### 优势  

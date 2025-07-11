@@ -16567,5 +16567,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "2025-W28/2025-07-11/开源项目mcp-remote 中存在严重漏洞可导致RCE.md",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485754&idx=1&sn=62576740b3e02f2d5c133024b5133a35": "2025-W28/2025-07-11/HTB 第八赛季Voleur靶机：SMB泄漏∕WSL备份∕直捣域控.md",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523537&idx=2&sn=5d168afda91b79b08357b3c4cc3f579d": "2025-W28/2025-07-11/Splunk 修复 SOAR 版本中的第三方包漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-W28/2025-07-11/2025-7-11日漏洞情报汇总.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-W28/2025-07-11/2025-7-11日漏洞情报汇总.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "2025-W28/2025-07-11/Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501295&idx=2&sn=1c50a343f89ffc932f66bb703f8abada": "2025-W28/2025-07-11/【漏洞通告】Citrix NetScaler 内存泄漏漏洞 (CVE-2025-5777).md"
 }

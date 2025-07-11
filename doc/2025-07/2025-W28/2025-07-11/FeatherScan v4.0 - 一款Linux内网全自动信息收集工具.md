@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247503736&idx=1&sn=e62fae44a2605ab0df8dc812fee51167
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247487069&idx=1&sn=9aa25fb192bc4f36dffbd387e12759e4
 
 #  FeatherScan v4.0 - 一款Linux内网全自动信息收集工具  
-原创 仙草里没有草噜丶  泷羽Sec   2025-07-10 13:42  
+ 泷羽Sec-Norsea   2025-07-11 04:42  
   
 ## 前言  
   
@@ -44,7 +44,7 @@ Bashark
 是一款专为Linux系统设计的自动化内网渗透与特权提升扫描工具，由泷羽Sec作者**白小羽**  
 开发。该工具旨在简化渗透测试过程中的内网信息收集和提权检测环节，通过自动化扫描显著减少手工操作时间，帮助安全研究人员高效识别系统弱点。  
   
-![image-20250710163527207](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54d1jwlhy1px4ynbWUo5y3BkIdxHSSyicFF5iczEZloXEwjaxO6jMmZPoA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163527207](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54d1jwlhy1px4ynbWUo5y3BkIdxHSSyicFF5iczEZloXEwjaxO6jMmZPoA/640?wx_fmt=png "")  
   
 image-20250710163527207  
 ## 主要功能  
@@ -52,33 +52,33 @@ image-20250710163527207
   
 操作系统与内核信息、用户与组权限分析、环境变量深度检查、网络配置与路由信息、敏感文件权限审计、容器环境检测、服务与进程分析等等  
   
-![image-20250710162748149](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Cd3SLJce6icGEcrHdAxSV3Vl3lqSE16PKWy3HvcOuMgicQAZVk2nUlDg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162748149](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Cd3SLJce6icGEcrHdAxSV3Vl3lqSE16PKWy3HvcOuMgicQAZVk2nUlDg/640?wx_fmt=png "")  
   
 image-20250710162748149  
   
-![image-20250710162806189](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54CQbNRaKlXkgkDPGvvBuIAWicjXZe0ibNlSK2vfFMMiclT2aFQYKZHJoVw/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162806189](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54CQbNRaKlXkgkDPGvvBuIAWicjXZe0ibNlSK2vfFMMiclT2aFQYKZHJoVw/640?wx_fmt=png "")  
   
 image-20250710162806189  
   
-![image-20250710162834914](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54koU4LCpIfghNtThX6umU2jHF8NOZ4MN5NpQnPiaGJQenFkiaqiauMRsicg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162834914](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54koU4LCpIfghNtThX6umU2jHF8NOZ4MN5NpQnPiaGJQenFkiaqiauMRsicg/640?wx_fmt=png "")  
   
 image-20250710162834914  
   
-![image-20250710162858038](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54sMeEia2lkGZnMgGtlmYo39ib5EcbqMdoAMoOmjownN3Sgh6C4rVdHEJQ/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162858038](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54sMeEia2lkGZnMgGtlmYo39ib5EcbqMdoAMoOmjownN3Sgh6C4rVdHEJQ/640?wx_fmt=png "")  
   
 image-20250710162858038  
   
-![image-20250710162912529](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Oib1Tv5ialAp9chOeIFcDsEEPLxjcbFgsjS1Xe9am2bTO15gywaib3jiaw/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162912529](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Oib1Tv5ialAp9chOeIFcDsEEPLxjcbFgsjS1Xe9am2bTO15gywaib3jiaw/640?wx_fmt=png "")  
   
 image-20250710162912529  
   
-![image-20250710162924221](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54NTjr8YHv7ddbYzV3oibZYTWyWZYIrFBaNp3QSYF2vWA8UcPgnxrmDJg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162924221](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54NTjr8YHv7ddbYzV3oibZYTWyWZYIrFBaNp3QSYF2vWA8UcPgnxrmDJg/640?wx_fmt=png "")  
   
 image-20250710162924221  
   
 简单的内核提权漏洞检测（非常适合用来打靶机学习）  
   
-![image-20250710162957955](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54sjK69yuy3gaJRUKKJJASgboZsGpSW0BUBxdQTv7TcyV2LoJBicHSG6w/640?wx_fmt=png&from=appmsg "")  
+![image-20250710162957955](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54sjK69yuy3gaJRUKKJJASgboZsGpSW0BUBxdQTv7TcyV2LoJBicHSG6w/640?wx_fmt=png "")  
   
 image-20250710162957955  
 ### 2. 内网渗透扫描  
@@ -95,20 +95,20 @@ image-20250710162957955
 - **隐身模式**  
 ：慢速扫描避免触发IDS/IPS  
   
-![image-20250710163205090](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wXrhEbzG2QLC3gGYX9RDSRnkBdjeDPZliaFMxuOMSyMNPVtU1YYmEDw/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163205090](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wXrhEbzG2QLC3gGYX9RDSRnkBdjeDPZliaFMxuOMSyMNPVtU1YYmEDw/640?wx_fmt=png "")  
   
 image-20250710163205090  
   
 常见的端口扫描  
   
-![image-20250710163305050](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54MsQxTfvezAME4SgR1vPCqFugwpquoGLJ5icAcEnDq1kpaY95V4Sk68w/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163305050](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54MsQxTfvezAME4SgR1vPCqFugwpquoGLJ5icAcEnDq1kpaY95V4Sk68w/640?wx_fmt=png "")  
   
 image-20250710163305050  
 ### 3. 横向移动检测  
   
 SSH密钥重用检测、密码爆破（SSH, MySQL, PostgreSQL, SMB等）、SMB共享匿名访问检测、数据库服务爆破等等，也可隐蔽爆破，速度慢  
   
-![image-20250710164738762](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54oHsOApF2HJ9spVtgJ5VRwdMGV2AGAbm1vDcbDhGdZHkfjuCsaQBaoA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710164738762](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54oHsOApF2HJ9spVtgJ5VRwdMGV2AGAbm1vDcbDhGdZHkfjuCsaQBaoA/640?wx_fmt=png "")  
   
 image-20250710164738762  
 ### 4. 特权提升检测  
@@ -116,46 +116,46 @@ image-20250710164738762
 SUID/SGID危险文件检测、sudo权限深度分析、可写路径检查、内核漏洞匹配（脏牛、脏管道等）、密码哈希分析、自动化漏洞利用（**不需要联网**  
 ）等等  
   
-![image-20250710174615940](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54j629xWfvQiaCTGczajx2sw98DPCcmicYoc889Mq0bfPgTkniaSich2kdHw/640?wx_fmt=png&from=appmsg "")  
+![image-20250710174615940](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54j629xWfvQiaCTGczajx2sw98DPCcmicYoc889Mq0bfPgTkniaSich2kdHw/640?wx_fmt=png "")  
   
 image-20250710174615940  
   
-![image-20250710174630892](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wTbMB3gnkpZN8ib70bMJAWvEkiaSUpdNM1nuz5NfPEJXcMEhLHlbadTg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710174630892](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wTbMB3gnkpZN8ib70bMJAWvEkiaSUpdNM1nuz5NfPEJXcMEhLHlbadTg/640?wx_fmt=png "")  
   
 image-20250710174630892  
   
-![image-20250710163439150](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54lbc7viaYmEhwA8nVt2k5BLUL834Z1dflqFcTHuG6F6FPpTxYth0oVwg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163439150](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54lbc7viaYmEhwA8nVt2k5BLUL834Z1dflqFcTHuG6F6FPpTxYth0oVwg/640?wx_fmt=png "")  
   
 image-20250710163439150  
   
-![image-20250710163635220](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54jnBYZEa9IDzaRPwUnQRY1E4OpbAibygGGBoGa9uL6TdnsdJZ6ZlTayg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163635220](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54jnBYZEa9IDzaRPwUnQRY1E4OpbAibygGGBoGa9uL6TdnsdJZ6ZlTayg/640?wx_fmt=png "")  
   
 image-20250710163635220  
   
-![image-20250710163623363](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54ojUR52O3n19mU2ibTWwjB3ibUMbiagneRicLEbekXRNiaibdmCug8Gm7PE7g/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163623363](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54ojUR52O3n19mU2ibTWwjB3ibUMbiagneRicLEbekXRNiaibdmCug8Gm7PE7g/640?wx_fmt=png "")  
   
 image-20250710163623363  
   
-![image-20250710163643921](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54LN6KYvq4ProA6twFnxulVe1ehVTiaibCDvwJ7uGvRn93kBIaOA24P44Q/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163643921](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54LN6KYvq4ProA6twFnxulVe1ehVTiaibCDvwJ7uGvRn93kBIaOA24P44Q/640?wx_fmt=png "")  
   
 image-20250710163643921  
   
-![image-20250710163702389](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54cgK1q6rgeInK7cicExjDAfibG9MCbvXrERBoKw33QjtR5ISpEvU0dwGA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163702389](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54cgK1q6rgeInK7cicExjDAfibG9MCbvXrERBoKw33QjtR5ISpEvU0dwGA/640?wx_fmt=png "")  
   
 image-20250710163702389  
   
-![image-20250710163843070](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54cz3e0GQq2g4MUbbiaIIGicu8mZGN24x9nmLHZ6wyckmqFs1GdN0eU5YA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163843070](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54cz3e0GQq2g4MUbbiaIIGicu8mZGN24x9nmLHZ6wyckmqFs1GdN0eU5YA/640?wx_fmt=png "")  
   
 image-20250710163843070  
 ### 5. 安全痕迹管理  
   
 自动备份/恢复修改文件、安全删除临时文件（7次覆盖）、命令历史清除、日志文件清理、内存缓存清除、本地爆破记录删除  
   
-![image-20250710163422379](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54dBqewB8e0Wwic5bOWKu1qlibZYQsnSfUiaAnsVwm1UPG5Uwzh2BibtM1Jg/640?wx_fmt=png&from=appmsg "")  
+![image-20250710163422379](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54dBqewB8e0Wwic5bOWKu1qlibZYQsnSfUiaAnsVwm1UPG5Uwzh2BibtM1Jg/640?wx_fmt=png "")  
   
 image-20250710163422379  
   
-![image-20250710164811268](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54qkCvWHdmalBO38WFn7piamBM6sEjLX7wuSpeWQ56Dm6qBDnjTJny13g/640?wx_fmt=png&from=appmsg "")  
+![image-20250710164811268](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54qkCvWHdmalBO38WFn7piamBM6sEjLX7wuSpeWQ56Dm6qBDnjTJny13g/640?wx_fmt=png "")  
   
 image-20250710164811268  
 ## 技术特点  
@@ -262,23 +262,19 @@ featheruser
   
 加入泷羽Sec内部Freebuf帮会即可获取，在帮会主页中找到帮会网盘，即可下载工具啦，这工具没有那么高大上，只是简化了linux内网信息收集，端口扫描，内核漏洞利用，内网探测，痕迹清除等等，理性消费  
   
-![image-20250710193311400](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wMoMicSjfjialQ3WM3jnFYEJtyVYYeASsvIZedIYxfv1iblOhgrhia40xA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710193311400](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54wMoMicSjfjialQ3WM3jnFYEJtyVYYeASsvIZedIYxfv1iblOhgrhia40xA/640?wx_fmt=png "")  
   
 image-20250710193311400  
   
-加入方式，扫码领取优惠卷，而且79元也不贵也就一些师傅们的一顿饭钱，我每天点外卖也就七八块一顿，现在还是未就业的状态，如果有师傅们看上，赏口饭吃，想找一个渗透岗的，广州，刚毕业一年，给个牛马价就好了  
+加入方式，扫码进帮会  
   
-首发工具，帮会也搞个活动吧，持续到这个月底（2025年7月31日），仅限前五十名，和618一样，79元即可永久加入，不是年会，而是永久，后续笔记到2k，就考虑涨价了  
+首发工具，帮会也搞个活动吧，持续到这个月底（2025年7月31日），仅限前五十名，和618一样，99元即可永久加入，不是年会，而是永久，后续笔记到2k，就考虑涨价了  
   
 在线要饭中。。。。。。在此先感谢师傅阅读到这里  
   
-![海报](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54fZEzaiayvicGKqQGPiclblDazd2rve7UFEICq8dG61I0QrHKf4rpibib4tA/640?wx_fmt=png&from=appmsg "")  
   
-海报  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/IkpoxULsr9dBeQl3gB1oqdRdBZlRUblvnib7MhUSD8QXNrTuDG1NR3mvGIWB9b30Kyic2vBoVaeicN8VGVZAKxc8g/640?wx_fmt=jpeg "")  
   
-帮会详细点击下面图片链接  
-  
-[](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247502572&idx=1&sn=42a9853381a099fc7c074230c39824a3&scene=21#wechat_redirect)  
 > 一天存10块，一个月就是3000，一年就是36w，十年就是3600w，3600w可以干什么？  
   
 上海一套别墅，记得买个带**独立机房**  
@@ -299,11 +295,11 @@ image-20250710193311400
 另外最近如果需要cyberstrikelab靶场的高级会员，可以找我预约（1人/天），**仅限freebuf帮会成员**  
 ，到本月23号截止  
   
-![image-20250710200729130](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Noa8X3GfHgsibf3gzvLyicsJDYpmgPEoqfxCviaTuABeItSYH0TgmhYjA/640?wx_fmt=png&from=appmsg "")  
+![image-20250710200729130](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54Noa8X3GfHgsibf3gzvLyicsJDYpmgPEoqfxCviaTuABeItSYH0TgmhYjA/640?wx_fmt=png "")  
   
 image-20250710200729130  
   
-![db8acc9657ff8edd6aa961407cf745a](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54r57u9brdKibm7a8lkC5Qtrzad6Tt5nGXELtIQIUN9bsRE6rkt3Ow3vw/640?wx_fmt=png&from=appmsg "")  
+![db8acc9657ff8edd6aa961407cf745a](https://mmbiz.qpic.cn/mmbiz_png/5975bXHXfWFxibJTBpwI4o8vSSUibvxG54r57u9brdKibm7a8lkC5Qtrzad6Tt5nGXELtIQIUN9bsRE6rkt3Ow3vw/640?wx_fmt=png "")  
   
 db8acc9657ff8edd6aa961407cf745a  
 ## 免责声明  

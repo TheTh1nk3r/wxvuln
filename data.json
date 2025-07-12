@@ -16603,5 +16603,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "2025-W28/2025-07-12/Struts2VulsScanTools【Struts2全版本漏洞检测工具】.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "2025-W28/2025-07-12/某新版诈骗双端APP通讯录存在前台SQL注入漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=1&sn=b6dc54a7100f76968a25f6db47d5e0eb": "2025-W28/2025-07-12/【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)安全风险通告.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521456&idx=1&sn=205c24044197361741632e9f3e4f57e4": "2025-W28/2025-07-12/JS扫描与漏洞挖掘利器推荐—Rotor Goddess.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521456&idx=1&sn=205c24044197361741632e9f3e4f57e4": "2025-W28/2025-07-12/JS扫描与漏洞挖掘利器推荐—Rotor Goddess.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "2025-W28/2025-07-12/Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023).md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484711&idx=1&sn=c2c06fac608791fac01832eab95ab674": "2025-W28/2025-07-12/紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）.md"
 }

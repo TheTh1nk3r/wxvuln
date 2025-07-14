@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkyOTQ4NTc3Nw==&mid=2247485618&idx=1&sn=b834c95e277a5e9facb3e3151af9a47d
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489978&idx=1&sn=822ebed3b5c7e945a1160e02b6173028
 
 #  【数据安全篇】微信"引用"消息变成私信好友XSS整蛊  
- 云淡纤尘   2025-07-14 02:06  
+ 网络安全与取证研究   2025-07-14 00:00  
   
 **1**  
   

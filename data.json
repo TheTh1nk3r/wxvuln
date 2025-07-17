@@ -16852,5 +16852,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523583&idx=1&sn=f3695d751d9189ce3ff6b61f71cc9942": "2025-W29/2025-07-17/谷歌紧急修复已遭利用的 Chrome 0day.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=2&sn=12cf79e2129fed86722ef157f501769c": "2025-W29/2025-07-17/mcp-remote 中存在严重 RCE 漏洞：CVE-2025-6514，威胁 LLM 客户端.md",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "2025-W29/2025-07-17/【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236).md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489632&idx=1&sn=cfd0fe4074ceae03eff8238fbf7b26ce": "2025-W29/2025-07-17/【相关分享】关于网传HVV中的WPS漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489632&idx=1&sn=cfd0fe4074ceae03eff8238fbf7b26ce": "2025-W29/2025-07-17/【相关分享】关于网传HVV中的WPS漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "2025-W29/2025-07-17/记一次有趣的逻辑漏洞挖掘.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484350&idx=1&sn=aa3db900309caf2a179befd3484960f2": "2025-W29/2025-07-17/GeoServer存在默认口令admin:geoserver 附POC.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-W29/2025-07-17/2025-7-17日漏洞情报汇总.md"
 }

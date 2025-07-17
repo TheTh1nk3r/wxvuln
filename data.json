@@ -16835,5 +16835,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "2025-W29/2025-07-17/【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689).md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "2025-W29/2025-07-17/【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981).md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=1&sn=8981d6a46b6b158edab4ffeb30db9bc4": "2025-W29/2025-07-17/Microsoft Brokering File System Windows 11 22H2 权限提升漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492799&idx=1&sn=d4fcac2dc96b4244380b65544da93497": "2025-W29/2025-07-17/银狐黑产组织新型后门样本分析.md"
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492799&idx=1&sn=d4fcac2dc96b4244380b65544da93497": "2025-W29/2025-07-17/银狐黑产组织新型后门样本分析.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "2025-W29/2025-07-17/代码审计-Java项目-组件RCE代码执行漏洞审计.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489680&idx=1&sn=37eee459a55b76471119db69d6b93f58": "2025-W29/2025-07-17/【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "2025-W29/2025-07-17/CNNVD关于Oracle多个安全漏洞的通报.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "2025-W29/2025-07-17/【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "2025-W29/2025-07-17/Git CLI高危任意文件写入漏洞曝光，PoC已公开.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "2025-W29/2025-07-17/谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击.md"
 }

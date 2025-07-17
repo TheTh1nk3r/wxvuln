@@ -16841,5 +16841,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "2025-W29/2025-07-17/CNNVD关于Oracle多个安全漏洞的通报.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "2025-W29/2025-07-17/【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "2025-W29/2025-07-17/Git CLI高危任意文件写入漏洞曝光，PoC已公开.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "2025-W29/2025-07-17/谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "2025-W29/2025-07-17/谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487409&idx=1&sn=4df1e812b7f1b6e6ca14ad494844d4a0": "2025-W29/2025-07-17/07-17-攻防演练之请防守方重点关注威胁情报样本信息.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484469&idx=1&sn=598ed0fdbc5d4173c2b4f452925cdf3f": "2025-W29/2025-07-17/25HVV最新0day丨WPS远程代码执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488477&idx=1&sn=bfde8c4971f0b8b052a8eb97550e957a": "2025-W29/2025-07-17/Hutool路径遍历漏洞（CVE-2018-17297）分析报告.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521989&idx=1&sn=d7acd51cc08562a0dd335698dd4230eb": "2025-W29/2025-07-17/【7.16】-威胁情报汇总.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483925&idx=1&sn=f679814340a0416b57a5d7a5d71a036f": "2025-W29/2025-07-17/【已复现】飞塔Authorization SQL注入CVE-2025-25257.md"
 }

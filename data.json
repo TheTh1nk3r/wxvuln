@@ -16901,5 +16901,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=2&sn=f195adfac368a7d71856e3368b579eef": "2025-W29/2025-07-18/CVE-2025-48799 的 PoC，是 Windows 更新服务中的特权提升漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574036&idx=2&sn=add199cdb673e59184a1c199e3bb929a": "2025-W29/2025-07-18/应急响应实战方案手册，网安人必备！.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486447&idx=1&sn=1664fe8cf725ec27c3bcd2ed4b288d3b": "2025-W29/2025-07-18/俄罗斯“沙虫”组织全球撒网！这个APT组织专搞“初始访问”，隐蔽性堪称一绝.md",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064283&idx=1&sn=97d2264df6c329e58a4b9022d4d6789d": "2025-W29/2025-07-18/信息安全漏洞周报【第031期】.md"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064283&idx=1&sn=97d2264df6c329e58a4b9022d4d6789d": "2025-W29/2025-07-18/信息安全漏洞周报【第031期】.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484806&idx=1&sn=f3f4e653ec05b15bd9f075a811b43f8e": "2025-W29/2025-07-18/微信3.9 RCE漏洞 听说已有受害者.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "2025-W29/2025-07-18/Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507128&idx=1&sn=fc52ed41c425b97d96e8aa395b01cb16": "2025-W29/2025-07-18/APT-C-53（Gamaredon）组织疑似瞄准目标政府部门的攻击行动分析.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484497&idx=1&sn=e16cdc5c6ab692d33c57e2a5ae01e722": "2025-W29/2025-07-18/某信RCE漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "2025-W29/2025-07-18/BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "2025-W29/2025-07-18/NVIDIA 容器工具包允许攻击者执行特权代码漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492628&idx=1&sn=6328dbcbf1e55c176f7181178a068c63": "2025-W29/2025-07-18/【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138069&idx=2&sn=535ea85e8092f28f192814ef324c3286": "2025-W29/2025-07-18/研究显示：四分之三的美国青少年不顾风险使用AI伴侣；CNNVD关于Oracle多个安全漏洞的通报 | 牛览.md"
 }

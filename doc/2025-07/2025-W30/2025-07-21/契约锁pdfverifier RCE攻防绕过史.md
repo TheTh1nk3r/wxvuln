@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484093&idx=1&sn=5ae7bfff27bf05c2f407d40a0c61a491
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494434&idx=1&sn=f85a9125e3a2b4c7eb1bf4c737ee71d2
 
 #  契约锁pdfverifier RCE攻防绕过史  
-原创 killer  漫漫安全路   2025-07-21 06:00  
+ 哈拉少安全小队   2025-07-21 12:01  
   
 # 前言  
   

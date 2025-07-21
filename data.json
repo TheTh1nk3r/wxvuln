@@ -17023,5 +17023,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990970&idx=1&sn=70703fd989d5db86ff515653bf9aaf50": "2025-W30/2025-07-21/原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=2&sn=4d9b5a33631dfe30cdde65271ea9a153": "2025-W30/2025-07-21/Broadcom修复Pwn2Own Berlin 2025中被利用的VMware高危漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490236&idx=1&sn=39ed76d3bfcabdd4def2ba2bd953ba5c": "2025-W30/2025-07-21/某诈骗微盘存在前台SQL注入漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489440&idx=1&sn=52e46ab1d65d62e5eca08cc8076fb77c": "2025-W30/2025-07-21/Windows 任意文件读取漏洞如何扩大战果？.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489440&idx=1&sn=52e46ab1d65d62e5eca08cc8076fb77c": "2025-W30/2025-07-21/Windows 任意文件读取漏洞如何扩大战果？.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489664&idx=1&sn=305ea1fb540232b04b6188e09fc1fe03": "2025-W30/2025-07-21/未知 CVE 揭秘：通过 WebPart 属性反序列化实现 RCE (Remote Code Execution).md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=1&sn=34418dc2e46f79efadfa931f71df0600": "2025-W30/2025-07-21/CVE-2023-4069：Maglev图建立阶段的一个漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260356&idx=1&sn=8c35649fee80bddd9924b08f386bdcaf": "2025-W30/2025-07-21/为何必须突破工具漏洞清单思维，照亮安全盲区.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500150&idx=1&sn=ad42d1f6e3e10562d5f9c83d8ec23c0c": "2025-W30/2025-07-21/CNVD漏洞周报2025年第27期.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486586&idx=1&sn=a64429cb46676df4b223b1e98cd3ad4b": "2025-W30/2025-07-21/代码审计-thinkphp历史漏洞挖掘.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "2025-W30/2025-07-21/挖掘特斯拉Model 3上价值1w美元的漏洞.md"
 }

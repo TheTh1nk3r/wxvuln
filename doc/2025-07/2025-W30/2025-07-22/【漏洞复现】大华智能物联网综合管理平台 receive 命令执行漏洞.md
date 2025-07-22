@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484960&idx=1&sn=ad43cab8df06b479660c3c71137eb642
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486523&idx=1&sn=c262ed70b896a8afaec32e93cd9a7c3f
 
 #  【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞  
-原创 PokerSec  PokerSec   2025-07-22 01:01  
+ 格格巫和蓝精灵   2025-07-22 05:35  
   
 > 目前该漏洞互联网上资产基本都已修复，官方应该是做了热补丁，本文只做记录分析学习。  
   
